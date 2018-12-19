@@ -1,0 +1,2 @@
+mag_5("ACE_fieldDressing"), mag_5("ACE_elasticBandage"), mag_10("ACE_quikclot"), mag_5("ACE_packingBandage"), "ACE_morphine", mag_2("ACE_tourniquet"), mag_2("ACE_CableTie"), 
+"adv_aceSplint_splint", "ACE_MapTools", "ACE_Flashlight_MX991", mag_2("ACE_IR_Strobe_Item"),
