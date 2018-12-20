@@ -7,7 +7,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverHMG : UK3CB_BAF_LandRover_WMIK_HMG_
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_HMG.hpp"
 	class TextureSources
 
 	{
@@ -53,7 +53,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverMilan : UK3CB_BAF_LandRover_WMIK_Mi
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_Milan.hpp"
 	class TextureSources
 
 	{
@@ -99,7 +99,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverGPMG : UK3CB_BAF_LandRover_WMIK_GPM
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_GPMG.hpp"
 	class TextureSources
 
 	{
@@ -145,7 +145,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverGMG : UK3CB_BAF_LandRover_WMIK_GMG_
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_GMG.hpp"
 	class TextureSources
 
 	{

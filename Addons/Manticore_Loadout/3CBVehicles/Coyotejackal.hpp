@@ -6,7 +6,7 @@ class Manticore_Loadout_3CBVehicles_Coyote_Logistics_HMG : UK3CB_BAF_Coyote_Logi
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_HMG.hpp"
 	class TextureSources
 
 	{
@@ -41,7 +41,7 @@ class Manticore_Loadout_3CBVehicles_Coyote_Logistics_GMG : UK3CB_BAF_Coyote_Logi
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_GMG.hpp"
 	class TextureSources
 
 	{
@@ -76,7 +76,7 @@ class Manticore_Loadout_3CBVehicles_Coyote_Passenger_HMG : UK3CB_BAF_Coyote_Pass
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_HMG.hpp"
 	class TextureSources
 
 	{
@@ -111,7 +111,7 @@ class Manticore_Loadout_3CBVehicles_Coyote_Passenger_GMG : UK3CB_BAF_Coyote_Pass
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_GMG.hpp"
 	class TextureSources
 
 	{
@@ -146,7 +146,7 @@ class Manticore_Loadout_3CBVehicles_Jackal2_HMG : UK3CB_BAF_Jackal2_L111A1_W
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_HMG.hpp"
 	class TextureSources
 
 	{
@@ -181,7 +181,7 @@ class Manticore_Loadout_3CBVehicles_Jackal2_GMG : UK3CB_BAF_Jackal2_L134A1_W
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_GMG.hpp"
 	class TextureSources
 
 	{

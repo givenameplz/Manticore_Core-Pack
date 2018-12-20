@@ -5,7 +5,7 @@ class Manticore_Loadout_3CBVehicles_RHIB_HMG : UK3CB_BAF_RHIB_HMG
 	side = 1;
 	faction = "Manticore_Faction";
 
-#include "../Loadout/LoadoutBasicNavy.hpp"
+#include "../Loadout/LoadoutBasicNavy_HMG.hpp"
 };
 class Manticore_Loadout_3CBVehicles_RHIB_GPMG : UK3CB_BAF_RHIB_GPMG
 {
@@ -14,5 +14,5 @@ class Manticore_Loadout_3CBVehicles_RHIB_GPMG : UK3CB_BAF_RHIB_GPMG
 	side = 1;
 	faction = "Manticore_Faction";
 
-#include "../Loadout/LoadoutBasicNavy.hpp"
+#include "../Loadout/LoadoutBasicNavy_GPMG.hpp"
 };

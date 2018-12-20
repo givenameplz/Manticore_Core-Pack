@@ -1,12 +1,12 @@
 class Manticore_Loadout_3CBVehicles_Buldog_RWS : UK3CB_BAF_FV432_Mk3_RWS_Green
 {
-	displayName = "Buldog RWS";
+	displayName = "Buldog HMG";
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_HMG1.hpp"
 	class TextureSources
 
 	{
@@ -41,7 +41,7 @@ class Manticore_Loadout_3CBVehicles_Buldog_GPMG : UK3CB_BAF_FV432_Mk3_GPMG_Green
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_GPMG.hpp"
 	class TextureSources
 
 	{

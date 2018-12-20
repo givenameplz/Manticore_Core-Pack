@@ -6,7 +6,7 @@ class Manticore_Loadout_3CBVehicles_Panther_GPMG : UK3CB_BAF_Panther_GPMG_Green_
 	faction = "Manticore_Faction";
 	//crew = "";
 
-#include "../Loadout/LoadoutBasic.hpp"
+#include "../Loadout/LoadoutBasic_GPMG.hpp"
 	class TextureSources
 
 	{
