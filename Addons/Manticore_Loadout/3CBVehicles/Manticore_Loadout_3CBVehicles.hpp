@@ -12,7 +12,7 @@
 #include "Buldog.hpp"
 
 //Ribb
-#include "Ribb.hpp"
+#include "RHIB.hpp"
 
 //Wildcat
 #include "Wildcat.hpp"
