@@ -1,3 +1,4 @@
+// The Recruit Badges look the same so just use the Marine one!
 class Manticore_Insignia_NavyBadge_OR0
 {
 	displayName = "NATO Navy OR-0 [Rct.]";
