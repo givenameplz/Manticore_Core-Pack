@@ -183,3 +183,57 @@ class Manticore_Loadout_3CBVehicles_LandRoverGMG : UK3CB_BAF_LandRover_WMIK_GMG_
 	};
 	textureList[] = { "bf_Green",0,"bf_GreenBlack",0,"bf_Sand",0 };
 };
+class Manticore_Loadout_3CBVehicles_LandRoverSoftTop : UK3CB_BAF_LandRover_Soft_Green_A
+{
+	displayName = "LandRover SoftTop";
+	scope = 2;
+	side = 1;
+	faction = "Manticore_Faction";
+	//crew = "";
+
+#include "../Loadout/LoadoutBasic.hpp"
+	class TextureSources
+
+	{
+		class bf_Green
+		{
+			displayName = "Green";
+			textures[] =
+			{
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+			};
+			factions[] = { "Manticore_Faction" };
+		};
+
+
+		class bf_GreenBlack
+		{
+			displayName = "Green/Black";
+			textures[] =
+			{
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+			};
+			factions[] = { "Manticore_Faction" };
+		};
+
+		class bf_Sand
+		{
+			displayName = "Sand";
+			textures[] =
+			{
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+			};
+			factions[] = { "Manticore_Faction" };
+		};
+		class bf_Arctic
+		{
+			displayName = "Arctic";
+			textures[] =
+			{
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_un_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+			};
+			factions[] = { "Manticore_Faction" };
+		};
+	};
+	textureList[] = { "bf_Green",0,"bf_GreenBlack",0,"bf_Sand",0,"bf_Arctic",0 };
+};
