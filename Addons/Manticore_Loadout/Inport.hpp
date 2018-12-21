@@ -8,6 +8,9 @@ class UK3CB_BAF_LandRover_WMIK_GMG_Green_A;
 class UK3CB_BAF_LandRover_Soft_Green_A;
 class UK3CB_BAF_LandRover_Hard_Green_A;
 class UK3CB_BAF_LandRover_Snatch_Green_A;
+class UK3CB_BAF_LandRover_Amb_Green_A;
+class UK3CB_BAF_LandRover_Soft_MERT_A;
+class UK3CB_BAF_LandRover_Hard_MERT_A;
 //Coyote and Jackal
 class UK3CB_BAF_Coyote_Logistics_L134A1_W;
 class UK3CB_BAF_Coyote_Logistics_L111A1_W;
