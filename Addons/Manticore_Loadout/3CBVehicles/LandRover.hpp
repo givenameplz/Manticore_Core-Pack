@@ -8,6 +8,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverHMG : UK3CB_BAF_LandRover_WMIK_HMG_
 	//crew = "";
 
 #include "../Loadout/LoadoutBasic_HMG.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_mg-spg9_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\jackal_adds_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_pannier_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_misc_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_weapons\data\l112a1_gpmg\data\l112a1_mount_woodland_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\camonet_nato_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa",""
+	};
 	class TextureSources
 
 	{
@@ -54,6 +58,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverMilan : UK3CB_BAF_LandRover_WMIK_Mi
 	//crew = "";
 
 #include "../Loadout/LoadoutBasic_Milan.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_mg-spg9_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\jackal_adds_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_pannier_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_misc_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_weapons\data\l112a1_gpmg\data\l112a1_mount_woodland_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\camonet_nato_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa",""
+	};
 	class TextureSources
 
 	{
@@ -100,6 +108,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverGPMG : UK3CB_BAF_LandRover_WMIK_GPM
 	//crew = "";
 
 #include "../Loadout/LoadoutBasic_GPMG.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_mg-spg9_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\jackal_adds_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_pannier_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_misc_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_weapons\data\l112a1_gpmg\data\l112a1_mount_woodland_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\camonet_nato_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa",""
+	};
 	class TextureSources
 
 	{
@@ -146,6 +158,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverGMG : UK3CB_BAF_LandRover_WMIK_GMG_
 	//crew = "";
 
 #include "../Loadout/LoadoutBasic_GMG.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_mg-spg9_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\jackal_adds_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_pannier_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_wmik_misc_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_weapons\data\l112a1_gpmg\data\l112a1_mount_woodland_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\camonet_nato_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\clear_empty.paa",""
+	};
 	class TextureSources
 
 	{
@@ -192,6 +208,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverSoftTop : UK3CB_BAF_LandRover_Soft_
 	//crew = "";
 
 #include "../Loadout/LoadoutBasic.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa"
+	};
 	class TextureSources
 
 	{
@@ -200,7 +220,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverSoftTop : UK3CB_BAF_LandRover_Soft_
 			displayName = "Green";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -211,7 +231,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverSoftTop : UK3CB_BAF_LandRover_Soft_
 			displayName = "Green/Black";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_greenBlack_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -221,7 +241,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverSoftTop : UK3CB_BAF_LandRover_Soft_
 			displayName = "Sand";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_sand_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -230,7 +250,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverSoftTop : UK3CB_BAF_LandRover_Soft_
 			displayName = "Arctic";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_un_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_un_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -246,6 +266,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverHardTop : UK3CB_BAF_LandRover_Hard_
 	//crew = "";
 
 #include "../Loadout/LoadoutBasic.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa"
+	};
 	class TextureSources
 
 	{
@@ -254,7 +278,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverHardTop : UK3CB_BAF_LandRover_Hard_
 			displayName = "Green";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -265,7 +289,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverHardTop : UK3CB_BAF_LandRover_Hard_
 			displayName = "Green/Black";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_greenBlack_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_greenBlack_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -275,7 +299,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverHardTop : UK3CB_BAF_LandRover_Hard_
 			displayName = "Sand";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_sand_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_sand_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -284,7 +308,7 @@ class Manticore_Loadout_3CBVehicles_LandRoverHardTop : UK3CB_BAF_LandRover_Hard_
 			displayName = "Arctic";
 			textures[] =
 			{
-				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_un_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\flag_unionJack.paa"
+				"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_arctic_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_un_co.paa"
 			};
 			factions[] = { "Manticore_Faction" };
 		};
@@ -300,6 +324,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverSnatch : UK3CB_BAF_LandRover_Snatch
 	//crew = "";
 
 #include "../Loadout/LoadoutBasic.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_snatch_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_snatch_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\camonet_nato_green_co.paa"
+	};
 	class TextureSources
 
 	{
@@ -333,6 +361,10 @@ class Manticore_Loadout_3CBVehicles_LandRoverAmbulance : UK3CB_BAF_LandRover_Amb
 	//crew = "";
 
 #include "../Loadout/LoadoutMedical.hpp"
+	hiddenSelectionsTextures[] =
+	{
+		"","","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_base_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_hardtop_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_special_baf_green_co.paa","\uk3cb_baf_vehicles\addons\uk3cb_baf_vehicles_landrover\data\lr_amb_ext_green_co.paa"
+	};
 	class TextureSources
 
 	{
