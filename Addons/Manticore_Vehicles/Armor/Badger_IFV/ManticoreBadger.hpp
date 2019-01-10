@@ -4,7 +4,7 @@ class B_APC_Wheeled_01_cannon_F;
 class Manticore_Vehicle_Badger_IFV : B_APC_Wheeled_01_cannon_F
 {
 	side = 1;
-	scope = 2;
+	scope = 1;
 	crew = "B_crew_F";
 	faction = "Manticore_Faction";
 	displayName = "Badger IFV";

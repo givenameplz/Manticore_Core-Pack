@@ -4,12 +4,12 @@ class CfgPatches
 	{
 		units[] = 
 		{
-			Manticore_Vehicle_Leopard,
-			Manticore_Vehicle_Badger_IFV,
-			Manticore_Vehicle_Nemmera,
-			Manticore_Vehicle_Namer,
-			Manticore_Vehicle_Bardelas,
-			Manticore_Vehicle_speedboat_Minigun
+			//Manticore_Vehicle_Leopard,
+			//Manticore_Vehicle_Badger_IFV,
+			//Manticore_Vehicle_Nemmera,
+			//Manticore_Vehicle_Namer,
+			//Manticore_Vehicle_Bardelas,
+			//Manticore_Vehicle_speedboat_Minigun
 		};
 		weapons[] = {};
 		version = "0.3.0";

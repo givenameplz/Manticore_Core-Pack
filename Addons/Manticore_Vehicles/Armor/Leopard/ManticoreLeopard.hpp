@@ -4,7 +4,7 @@ class I_MBT_03_cannon_F;
 class Manticore_Vehicle_Leopard : I_MBT_03_cannon_F
 {
 	side = 1;
-	scope = 2;
+	scope = 1;
 	crew = "B_crew_F";
 	faction = "Manticore_Faction";
 	displayName = "Leopard";

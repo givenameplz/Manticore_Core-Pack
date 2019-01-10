@@ -3,7 +3,7 @@ class B_Boat_Armed_01_minigun_F;
 class Manticore_Vehicle_speedboat_Minigun : B_Boat_Armed_01_minigun_F
 {
 	side = 1;
-	scope = 2;
+	scope = 1;
 	crew = "B_crew_F";
 	faction = "Manticore_Faction";
 	displayName = "Speedboat Minigun";

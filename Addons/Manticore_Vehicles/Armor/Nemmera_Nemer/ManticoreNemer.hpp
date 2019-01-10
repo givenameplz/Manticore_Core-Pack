@@ -1,7 +1,7 @@
 class Manticore_Vehicle_Namer : B_APC_Tracked_01_rcws_F
 {
 	side = 1;
-	scope = 2;
+	scope = 1;
 	crew = "B_crew_F";
 	faction = "Manticore_Faction";
 	displayName = "Namer APC";

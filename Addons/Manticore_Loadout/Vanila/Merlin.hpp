@@ -9,7 +9,7 @@ class Manticore_Loadout_Vanila_Merlin_unarmed : I_Heli_Transport_02_F
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-	#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"A3\Air_F_Beta\Heli_Transport_02\Data\Heli_Transport_02_1_INDP_CO.paa",

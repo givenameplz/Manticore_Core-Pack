@@ -4,7 +4,7 @@ class B_APC_Tracked_01_AA_F;
 class Manticore_Vehicle_Bardelas : B_APC_Tracked_01_AA_F
 {
 	side = 1;
-	scope = 2;
+	scope = 1;
 	crew = "B_crew_F";
 	faction = "Manticore_Faction";
 	displayName = "Bardelas AA";
