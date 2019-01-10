@@ -1,10 +1,3 @@
-//Editor Notes
-//Nameing: Kit = gun and ammo, Ammo = Ammo, General = Food, Water and Medical suply, 
-//Field Kit = Resuply for a size of a group
-
-
-
-///General
 class Manticore_Loadout_Crate_General : Box_NATO_Equip_F
 {
 	displayName = "Equipment Crate (General) (TFM)";
