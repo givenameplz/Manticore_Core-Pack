@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class Manticore_Loadout_Vanila
+	class Manticore_Loadout_RHS
 	{
 		addonRootClass = "Manticore_Loadout";
 		units[] = {

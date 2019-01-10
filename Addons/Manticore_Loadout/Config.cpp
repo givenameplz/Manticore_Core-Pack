@@ -1,7 +1,7 @@
 class CfgPatches
 {
 	class Manticore_Loadout
-	{ //test
+	{
 		units[] =
 		{
 		};
@@ -13,7 +13,7 @@ class CfgPatches
 		{
 		};
 		author = "Mattress";
-		authorUrl = "http://steamcommunity.com/id/MR_Mattress/";
+		authorUrl = "https://github.com/Mattress237/Manticore_Core-Pack";
 	};
 };
 
@@ -22,9 +22,9 @@ class cfgFactionClasses
 	class Manticore_Faction
 	{
 		displayName = "Manticore";
-		priority = 3; // Position in list. 
-		side = 1; // Opfor = 0, Blufor = 1, Indep = 2. 
-		icon = ""; //Custom Icon 
+		priority = 3;
+		side = 1;
+		icon = "";
 	};
 };
 

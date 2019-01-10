@@ -4,7 +4,6 @@ class Manticore_Loadout_Vanila_Drone_UCAV : B_UAV_05_F
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
-	//crew = "";
 
 	class TransportWeapons
 	{
@@ -25,7 +24,6 @@ class Manticore_Loadout_Vanila_Drone_Falcon : B_T_UAV_03_dynamicLoadout_F
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
-	//crew = "";
 
 	class TransportWeapons
 	{
@@ -51,7 +49,6 @@ class Manticore_Loadout_Vanila_Drone_AR2 : B_UAV_01_F
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
-	//crew = "";
 
 	class TransportWeapons
 	{
@@ -72,7 +69,6 @@ class Manticore_Loadout_Vanila_Drone_Stomper : B_UGV_01_F
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
-	//crew = "";
 
 	class TransportWeapons
 	{
@@ -93,7 +89,6 @@ class Manticore_Loadout_Vanila_Drone_Stomper_RCWS : B_UGV_01_rcws_F
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
-	//crew = "";
 
 	class TransportWeapons
 	{

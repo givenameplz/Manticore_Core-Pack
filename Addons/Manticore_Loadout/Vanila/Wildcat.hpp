@@ -4,7 +4,8 @@ class Manticore_Loadout_Vanila_Wildcat_unarmed : I_Heli_light_03_unarmed_F
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
-	crew = "B_Helipilot_F";
+	//crew = "";
+
 	tf_hasLRradio = 1;
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
@@ -57,7 +58,7 @@ class Manticore_Loadout_Vanila_Wildcat_dynamicLoadout : I_Heli_light_03_dynamicL
 	scope = 2;
 	side = 1;
 	faction = "Manticore_Faction";
-	crew = "B_Helipilot_F";
+	//crew = "";
 	tf_hasLRradio = 1;
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
