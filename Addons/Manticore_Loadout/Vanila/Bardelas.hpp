@@ -1,4 +1,4 @@
-class Manticore_Loadout_Vanila_Bardelas : Manticore_Vehicle_Bardelas
+class Manticore_Loadout_Vanila_Bardelas : Manticore_Vanilla_AA_Bardelas
 {
 	//displayName = "";
 	scope = 2;
@@ -6,5 +6,5 @@ class Manticore_Loadout_Vanila_Bardelas : Manticore_Vehicle_Bardelas
 	faction = "Manticore_Faction";
 	//crew = "";
 	
-#include "../Loadout/LoadoutBasic.hpp"
+	#include "../Loadout/LoadoutBasic.hpp"
 };

@@ -12,23 +12,23 @@ class B_Heli_Light_01_F;
 class B_Heli_Light_01_dynamicLoadout_F;
 class B_Heli_Light_01_stripped_F;
 //APC IFV
-class Manticore_Vehicle_Badger_IFV;
-class Manticore_Vehicle_Namer;
-class Manticore_Vehicle_Nemmera;
+class Manticore_Vanilla_IFV_Badger;
+class Manticore_Vanilla_APC_Namer;
+class Manticore_Vanilla_APC_Nemmera;
 //AA
-class Manticore_Vehicle_Bardelas;
+class Manticore_Vanilla_AA_Bardelas;
 //Tank
-class Manticore_Vehicle_Leopard;
-class I_LT_01_cannon_F;
-class I_LT_01_AT_F;
-class I_LT_01_scout_F;
+class Manticore_Vanilla_Tank_Leopard;
+class Manticore_Vanilla_Tank_Wiesel2_Cannon;
+class Manticore_Vanilla_Tank_Wiesel2_AT;
+class Manticore_Vanilla_Tank_Wiesel2_Scout;
 class B_AFV_Wheeled_01_cannon_F;
 class B_AFV_Wheeled_01_up_cannon_F;
 //Artillery
 class B_MBT_01_arty_F;
 class B_MBT_01_mlrs_F;
 //Naval
-class Manticore_Vehicle_speedboat_Minigun;
+class Manticore_Vanilla_Boats_Speedboat_Minigun;
 //Drone
 class B_UAV_01_F;
 class B_T_UAV_03_dynamicLoadout_F;

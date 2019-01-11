@@ -1,4 +1,4 @@
-class Manticore_Loadout_Vanila_Namer : Manticore_Vehicle_Namer
+class Manticore_Loadout_Vanila_Namer : Manticore_Vanilla_APC_Namer
 {
 	//displayName = "";
 	scope = 2;

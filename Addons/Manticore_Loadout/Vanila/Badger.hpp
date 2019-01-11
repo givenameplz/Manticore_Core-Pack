@@ -1,4 +1,4 @@
-class Manticore_Loadout_Vanila_Badger : Manticore_Vehicle_Badger_IFV
+class Manticore_Loadout_Vanila_Badger : Manticore_Vanilla_IFV_Badger
 {
 	//displayName = "";
 	scope = 2;

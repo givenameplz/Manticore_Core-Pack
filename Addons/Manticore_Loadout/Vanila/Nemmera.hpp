@@ -1,4 +1,4 @@
-class Manticore_Loadout_Vanila_Nemmera : Manticore_Vehicle_Nemmera
+class Manticore_Loadout_Vanila_Nemmera : Manticore_Vanilla_APC_Nemmera
 {
 	//displayName = "";
 	scope = 2;
