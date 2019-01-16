@@ -1,10 +1,8 @@
-class Manticore_Loadout_Vanila_Arty_Sholef : B_MBT_01_arty_F
+class Manticore_Loadout_Vanila_Artillery_Sholef : Manticore_Vanilla_Artillery_Sholef
 {
-	displayName = "Sholef";
 	scope = 2;
 	side = 1;
-	faction = "Manticore_Faction";
-	//crew = "";
+
 
 	class TransportWeapons
 	{
@@ -18,42 +16,11 @@ class Manticore_Loadout_Vanila_Arty_Sholef : B_MBT_01_arty_F
 	class TransportBackpacks
 	{
 	};
-
-	hiddenSelectionsTextures[] =
-	{
-		"A3\Armor_F_Exp\MBT_01\data\MBT_01_body_olive_CO.paa","A3\Armor_F_Exp\MBT_01\data\MBT_01_scorcher_olive_CO.paa","A3\Data_F_Exp\Vehicles\Turret_olive_CO.paa","A3\Armor_F\Data\camonet_NATO_Green_CO.paa" 
-	};
-	class TextureSources
-	{
-		class Olive
-		{
-			displayName = "Olive";
-			textures[] =
-			{
-				"A3\Armor_F_Exp\MBT_01\data\MBT_01_body_olive_CO.paa","A3\Armor_F_Exp\MBT_01\data\MBT_01_scorcher_olive_CO.paa","A3\Data_F_Exp\Vehicles\Turret_olive_CO.paa","A3\Armor_F\Data\camonet_NATO_Green_CO.paa" 
-			};
-			factions[] = { "Manticore_Faction" };
-		};
-		class Sand
-		{
-			displayName = "Sand";
-			textures[] =
-			{
-				"A3\armor_f_gamma\MBT_01\Data\MBT_01_body_CO.paa","A3\armor_f_gamma\MBT_01\data\MBT_01_scorcher_co.paa","A3\Data_F\Vehicles\Turret_CO.paa","A3\Armor_F\Data\camonet_NATO_Desert_CO.paa" 
-			};
-			factions[] = { "Manticore_Faction" };
-		};
-
-	};
-	textureList[] = { "Olive",0,"Sand",0 };
 };
-class Manticore_Loadout_Vanila_Arty_Seara : B_MBT_01_mlrs_F
+class Manticore_Loadout_Vanila_Artillery_Seara : Manticore_Vanilla_Artillery_Seara
 {
-	displayName = "Seara";
 	scope = 2;
 	side = 1;
-	faction = "Manticore_Faction";
-	//crew = "";
 
 	class TransportWeapons
 	{
@@ -67,32 +34,4 @@ class Manticore_Loadout_Vanila_Arty_Seara : B_MBT_01_mlrs_F
 	class TransportBackpacks
 	{
 	};
-
-	hiddenSelectionsTextures[] =
-	{
-		"A3\Armor_F_Exp\MBT_01\data\MBT_01_body_olive_CO.paa","A3\Armor_F_Exp\MBT_01\data\MBT_01_MLRS_olive_co.paa","A3\Armor_F\Data\camonet_NATO_Green_CO.paa" 
-	};
-	class TextureSources
-	{
-		class Olive
-		{
-			displayName = "Olive";
-			textures[] =
-			{
-				"A3\Armor_F_Exp\MBT_01\data\MBT_01_body_olive_CO.paa","A3\Armor_F_Exp\MBT_01\data\MBT_01_MLRS_olive_co.paa","A3\Armor_F\Data\camonet_NATO_Green_CO.paa" 
-			};
-			factions[] = { "Manticore_Faction" };
-		};
-		class Sand
-		{
-			displayName = "Sand";
-			textures[] =
-			{
-				"A3\armor_f_gamma\MBT_01\Data\MBT_01_body_CO.paa","A3\armor_f_gamma\MBT_01\data\MBT_01_MLRS_co.paa","A3\Armor_F\Data\camonet_NATO_Desert_CO.paa" 
-			};
-			factions[] = { "Manticore_Faction" };
-		};
-
-	};
-	textureList[] = { "Olive",0,"Sand",0 };
 };

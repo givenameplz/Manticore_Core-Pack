@@ -6,8 +6,8 @@ class CfgPatches
 		units[] = 
 		{
 			Manticore_Loadout_Vanila_Wildcat_dynamicLoadout,
-			Manticore_Loadout_Vanila_Wildcat_unarmed,
-			Manticore_Loadout_Vanila_Merlin_unarmed,
+			Manticore_Loadout_Vanila_Wildcat,
+			Manticore_Loadout_Vanila_Merlin,
 			Manticore_Loadout_Vanila_Wiesel2_Cannon,
 			Manticore_Loadout_Vanila_Wiesel2_AT,
 			Manticore_Loadout_Vanila_Wiesel2_Scout,
@@ -25,8 +25,8 @@ class CfgPatches
 			Manticore_Loadout_Vanila_Bardelas,
 			Manticore_Loadout_Vanila_Leopard,
 			Manticore_Loadout_Vanila_Speedboat,
-			Manticore_Loadout_Vanila_Arty_Sholef,
-			Manticore_Loadout_Vanila_Arty_Seara,
+			Manticore_Loadout_Vanila_Artillery_Sholef,
+			Manticore_Loadout_Vanila_Artillery_Seara,
 			Manticore_Loadout_Vanila_Polaris_Unarmed,
 			Manticore_Loadout_Vanila_Polaris_Armed,
 			Manticore_Loadout_Vanila_Polaris_AT,
@@ -44,17 +44,10 @@ class CfgPatches
 			"Manticore_Vanilla_AA",
 			"Manticore_Vanilla_APC",
 			"Manticore_Vanilla_Boats",
-			"A3_Air_F_Heli_Light_01",
-			"A3_Drones_F_Air_F_Gamma_UAV_01",
-			"A3_Air_F_Exp_UAV_03",
-			"A3_Air_F_Jets_UAV_05",
-			"A3_Soft_F_Exp_LSV_01",
-			"A3_Soft_F_Quadbike_01",
-			"A3_Armor_F_Gamma_MBT_01",
-			"A3_Armor_F_Tank_AFV_Wheeled_01",
-			"A3_Drones_F_Soft_F_Gamma_UGV_01",
-			"A3_Air_F_EPB_Heli_Light_03",
-			"A3_Air_F_Beta_Heli_Transport_02"
+			"Manticore_Vanilla_Artillery",
+			"Manticore_Vanilla_Drone",
+			"Manticore_Vanilla_Heli",
+			"Manticore_Vanilla_Light"
 		};
 	};
 };

@@ -320,83 +320,83 @@
 #define _GrenadeOffensive(Frag,Stun,Incendiary)\
 	class _xx_rhs_mag_m67\
 	{\
-		weapon = "rhs_mag_m67";\
+		magazine = "rhs_mag_m67";\
 		count = Frag;\
 	};\
 	class _xx_rhs_mag_mk84\
 	{\
-		weapon = "rhs_mag_mk84";\
+		magazine = "rhs_mag_mk84";\
 		count = Stun;\
 	};\
 	class _xx_rhs_mag_an_m14_th3\
 	{\
-		weapon = "rhs_mag_an_m14_th3";\
+		magazine = "rhs_mag_an_m14_th3";\
 		count = Incendiary;\
 	};
 
 #define _GrenadeSmoke(Red,White,Green,Yellow,Orange,Purple,Blue)\
 	class _xx_SmokeShellRed\
 	{\
-		weapon = "SmokeShellRed";\
+		magazine = "SmokeShellRed";\
 		count = Red;\
 	};\
 	class _xx_SmokeShell\
 	{\
-		weapon = "SmokeShell";\
+		magazine = "SmokeShell";\
 		count = White;\
 	};\
 	class _xx_SmokeShellGreen\
 	{\
-		weapon = "SmokeShellGreen";\
+		magazine = "SmokeShellGreen";\
 		count = Green;\
 	};\
 	class _xx_SmokeShellYellow\
 	{\
-		weapon = "SmokeShellYellow";\
+		magazine = "SmokeShellYellow";\
 		count = Yellow;\
 	};\
 	class _xx_SmokeShellOrange\
 	{\
-		weapon = "SmokeShellOrange";\
+		magazine = "SmokeShellOrange";\
 		count = Orange;\
 	};\
 	class _xx_SmokeShellPurple\
 	{\
-		weapon = "SmokeShellPurple";\
+		magazine = "SmokeShellPurple";\
 		count = Purple;\
 	};\
 	class _xx_SmokeShellBlue\
 	{\
-		weapon = "SmokeShellBlue";\
+		magazine = "SmokeShellBlue";\
 		count = Blue;\
 	};
 
 #define _GrenadeFlare(Red,White,Green,Yellow)\
 	class _xx_ACE_HandFlare_Red\
 	{\
-		weapon = "ACE_HandFlare_Red";\
+		magazine = "ACE_HandFlare_Red";\
 		count = Red;\
 	};\
 	class _xx_ACE_HandFlare_White\
 	{\
-		weapon = "ACE_HandFlare_White";\
+		magazine = "ACE_HandFlare_White";\
 		count = White;\
 	};\
 	class _xx_ACE_HandFlare_Green\
 	{\
-		weapon = "ACE_HandFlare_Green";\
+		magazine = "ACE_HandFlare_Green";\
 		count = Green;\
 	};\
 	class _xx_ACE_HandFlare_Yellow\
 	{\
-		weapon = "ACE_HandFlare_Yellow";\
+		magazine = "ACE_HandFlare_Yellow";\
 		count = Yellow;\
 	};
 
 #define _GrenadeIR(IRGrenade)\
 	class _xx_B_IR_Grenade\
 	{\
-		weapon = "B_IR_Grenade";\
+		magazine = "B_IR_Grenade";\
 		count =  IRGrenade;\
 	};
 

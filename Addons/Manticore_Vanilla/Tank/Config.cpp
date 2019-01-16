@@ -8,7 +8,8 @@ class CfgPatches
 		{
 			"Manticore_Vanilla",
 			"A3_Armor_F_EPB_MBT_03",
-			"A3_armor_f_tank_lt_01"
+			"A3_armor_f_tank_lt_01",
+			"A3_Armor_F_Tank_AFV_Wheeled_01"
 		};
 		units[] = {};
 		weapons[] = {};
@@ -22,6 +23,8 @@ class CfgVehicles
 	class I_LT_01_cannon_F;
 	class I_LT_01_AT_F;
 	class I_LT_01_scout_F;
+	class B_AFV_Wheeled_01_cannon_F;
+	class B_AFV_Wheeled_01_up_cannon_F;
 
 	class Manticore_Vanilla_Tank_Leopard : I_MBT_03_cannon_F
 	{
@@ -381,5 +384,107 @@ class CfgVehicles
 
 		};
 		textureList[] = { "Olive",0,"AAF_Digital",0,"AAF_Digital_D",0,"AAF_Digital_J",0 };
+	};
+	class Manticore_Vanilla_Tank_Rooikat : B_AFV_Wheeled_01_cannon_F
+	{
+		displayName = "Rooikat 120";
+		scope = 1;
+		side = 1;
+		faction = "Manticore_Faction";
+		//crew = "";
+
+		hiddenSelectionsTextures[] =
+		{
+			"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT1_green_CO.paa",
+			"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_green_CO.paa",
+			"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_wheel_green_CO.paa",
+			"a3\Armor_F\Data\camonet_NATO_Green_CO.paa",
+			"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_CO.paa"
+		};
+		class TextureSources
+		{
+			class Olive
+			{
+				displayName = "Olive";
+				textures[] =
+				{
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT1_green_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_green_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_wheel_green_CO.paa",
+					"a3\Armor_F\Data\camonet_NATO_Green_CO.paa",
+					"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_CO.paa"
+				};
+				factions[] = { "Manticore_Faction" };
+			};
+			class Sand
+			{
+				displayName = "Sand";
+				textures[] =
+				{
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT1_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_wheel_CO.paa",
+					"a3\Armor_F\Data\camonet_NATO_Desert_CO.paa",
+					"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_sand_CO.paa"
+				};
+				factions[] = { "Manticore_Faction" };
+			};
+
+		};
+		textureList[] = { "Olive",0,"Sand",0 };
+	};
+	class Manticore_Vanilla_Tank_Rooikat_UP : B_AFV_Wheeled_01_up_cannon_F
+	{
+		displayName = "Rooikat 120 UP";
+		scope = 1;
+		side = 1;
+		faction = "Manticore_Faction";
+		//crew = "";
+
+		hiddenSelectionsTextures[] =
+		{
+			"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT1_green_CO.paa",
+			"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_green_CO.paa",
+			"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_wheel_green_CO.paa",
+			"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_CO.paa",
+			"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_commander_tow_CO.paa",
+			"a3\Armor_F\Data\camonet_NATO_Green_CO.paa",
+			"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_CO.paa"
+		};
+		class TextureSources
+		{
+			class Olive
+			{
+				displayName = "Olive";
+				textures[] =
+				{
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT1_green_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_green_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_wheel_green_CO.paa",
+					"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_commander_tow_CO.paa",
+					"a3\Armor_F\Data\camonet_NATO_Green_CO.paa",
+					"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_CO.paa"
+				};
+				factions[] = { "Manticore_Faction" };
+			};
+			class Sand
+			{
+				displayName = "Sand";
+				textures[] =
+				{
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT1_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_EXT2_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_wheeled_01_wheel_CO.paa",
+					"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_sand_CO.paa",
+					"a3\Armor_F_Tank\AFV_Wheeled_01\data\afv_commander_tow_sand_CO.paa",
+					"a3\Armor_F\Data\camonet_NATO_Desert_CO.paa",
+					"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_sand_CO.paa"
+				};
+				factions[] = { "Manticore_Faction" };
+			};
+
+		};
+		textureList[] = { "Olive",0,"Sand",0 };
 	};
 };
