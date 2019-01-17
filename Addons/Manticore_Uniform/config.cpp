@@ -39,9 +39,9 @@ class cfgFactionClasses
 	class Manticore_Faction 
 	{	
         displayName = "Manticore"; 
-        priority = 3; // Position in list. 
-        side = 1; // Opfor = 0, Blufor = 1, Indep = 2. 
-        icon = ""; //Custom Icon 
+        priority = 3; 
+        side = 1;  
+        icon = ""; 
     };
 };
 

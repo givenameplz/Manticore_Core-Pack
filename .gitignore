@@ -328,5 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
-/Build/Manticore_Loadout.pbo
 /Build
+*.hint

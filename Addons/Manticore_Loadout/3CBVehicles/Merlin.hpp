@@ -9,7 +9,7 @@ class Manticore_Loadout_3CBVehicles_Merlin_HC4_18 : UK3CB_BAF_Merlin_HC4_18
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"\uk3cb_baf_vehicles\addons\UK3CB_BAF_Vehicles_Merlin\data\merlin_hc4_base_1_co.paa",
@@ -71,7 +71,7 @@ class Manticore_Loadout_3CBVehicles_Merlin_HC4_18_GPMG : UK3CB_BAF_Merlin_HC4_18
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"\uk3cb_baf_vehicles\addons\UK3CB_BAF_Vehicles_Merlin\data\merlin_hc4_base_1_co.paa",
@@ -133,7 +133,7 @@ class Manticore_Loadout_3CBVehicles_Merlin_HC4_24 : UK3CB_BAF_Merlin_HC4_24
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"\uk3cb_baf_vehicles\addons\UK3CB_BAF_Vehicles_Merlin\data\merlin_hc4_base_1_co.paa",
@@ -195,7 +195,7 @@ class Manticore_Loadout_3CBVehicles_Merlin_HC4_32 : UK3CB_BAF_Merlin_HC4_32
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"\uk3cb_baf_vehicles\addons\UK3CB_BAF_Vehicles_Merlin\data\merlin_hc4_base_1_co.paa",
@@ -257,7 +257,7 @@ class Manticore_Loadout_3CBVehicles_Merlin_Cargo : UK3CB_BAF_Merlin_HC4_Cargo
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"\uk3cb_baf_vehicles\addons\UK3CB_BAF_Vehicles_Merlin\data\merlin_hc4_base_1_co.paa",
@@ -319,7 +319,7 @@ class Manticore_Loadout_3CBVehicles_Merlin_HC4_CSAR : UK3CB_BAF_Merlin_HC4_CSAR
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"\uk3cb_baf_vehicles\addons\UK3CB_BAF_Vehicles_Merlin\data\merlin_hc4_base_1_co.paa",
@@ -381,7 +381,7 @@ class Manticore_Loadout_3CBVehicles_Merlin_HM2_18 : UK3CB_BAF_Merlin_HM2_18
 	tf_encryptionCode = "tf_west_radio_code";
 	tf_dialog = "rt1523g_radio_dialog";
 
-#include "../Loadout/LoadoutTransportHeli.hpp"
+#include "../Loadout/LoadoutBasicHeli.hpp"
 
 	hiddenSelectionsTextures[] = {
 		"\uk3cb_baf_vehicles\addons\UK3CB_BAF_Vehicles_Merlin\data\merlin_hc4_base_1_co.paa",

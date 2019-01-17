@@ -1,4 +1,3 @@
-
 class Manticore_Loadout_3CBVehicles_LandRoverHMG : UK3CB_BAF_LandRover_WMIK_HMG_Green_A
 {
 	displayName = "LandRover HMG";
