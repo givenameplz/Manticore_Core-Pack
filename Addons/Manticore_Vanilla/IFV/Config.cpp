@@ -35,9 +35,9 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[] =
 		{
-			"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext01_V1,1_M81.paa",
-			"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext02_V1,0_M81.paa",
-			"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext03_V1,0_M81.paa"
+			"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext01_V1,1_M81.paa",
+			"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext02_V1,0_M81.paa",
+			"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext03_V1,0_M81.paa"
 		};
 
 		class TextureSources
@@ -49,9 +49,9 @@ class CfgVehicles
 				author = "Mattress";
 				textures[] =
 				{
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext01_V1,1_AOR3.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext02_V1,0_AOR3.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext03_V1,0_AOR3.paa"
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext01_V1,1_AOR3.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext02_V1,0_AOR3.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext03_V1,0_AOR3.paa"
 				};
 				factions[] = { "Manticore_Faction" };
 			};
@@ -62,9 +62,9 @@ class CfgVehicles
 				author = "Mattress";
 				textures[] =
 				{
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext01_V1,1_AOR2.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext02_V1,0_AOR2.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext03_V1,0_AOR2.paa"
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext01_V1,1_AOR2.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext02_V1,0_AOR2.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext03_V1,0_AOR2.paa"
 				};
 				factions[] = { "Manticore_Faction" };
 			};
@@ -75,9 +75,9 @@ class CfgVehicles
 				author = "Mattress";
 				textures[] =
 				{
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext01_V1,1_AOR2_Dark.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext02_V1,0_AOR2_Dark.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext03_V1,0_AOR2_Dark.paa"
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext01_V1,1_AOR2_Dark.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext02_V1,0_AOR2_Dark.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext03_V1,0_AOR2_Dark.paa"
 				};
 				factions[] = { "Manticore_Faction" };
 			};
@@ -88,9 +88,9 @@ class CfgVehicles
 				author = "Mattress";
 				textures[] =
 				{
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext01_V1,1_M81.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext02_V1,0_M81.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext03_V1,0_M81.paa"
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext01_V1,1_M81.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext02_V1,0_M81.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext03_V1,0_M81.paa"
 				};
 				factions[] = { "Manticore_Faction" };
 			};
@@ -101,9 +101,9 @@ class CfgVehicles
 				author = "$STR_A3_Bohemia_Interactive";
 				textures[] =
 				{
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext01_V1,1_Sand.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext02_V1,0_Sand.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext03_V1,0_Sand.paa"
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext01_V1,1_Sand.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext02_V1,0_Sand.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext03_V1,0_Sand.paa"
 				};
 				factions[] = { "Manticore_Faction" };
 			};
@@ -113,9 +113,9 @@ class CfgVehicles
 				author = "Mattress";
 				textures[] =
 				{
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext01_V1,1_Multi_Arid.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext02_V1,0_Multi_Arid.paa",
-					"\Manticore_Vanilla\IFV\Texture\Data\Badger_IFV_ext03_V1,0_Multi_Arid.paa"
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext01_V1,1_Multi_Arid.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext02_V1,0_Multi_Arid.paa",
+					"\Manticore_Vanilla\IFV\Data\Badger_IFV_ext03_V1,0_Multi_Arid.paa"
 				};
 				factions[] = { "Manticore_Faction" };
 			};

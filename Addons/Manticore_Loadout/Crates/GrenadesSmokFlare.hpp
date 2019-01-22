@@ -11,16 +11,13 @@ class Manticore_Loadout_Crate_Grenade_Grenade : Box_NATO_Support_F
 	};
 	class TransportMagazines
 	{
-
-	};
-	class TransportItems
-	{
 		_GrenadeOffensive(40, 20, 10);
 		_GrenadeIR(20);
 		_GrenadeSmoke(10, 20, 10, 10, 5, 5, 10);
 		_GrenadeFlare(10, 0, 10, 10);
-
-
+	};
+	class TransportItems
+	{
 		class _xx_ACE_Chemlight_HiBlue
 		{
 			name = "ACE_Chemlight_HiBlue";
@@ -51,16 +48,13 @@ class Manticore_Loadout_Crate_Grenade_FlareChem : Box_NATO_Support_F
 
 	class TransportWeapons
 	{
-
 	};
 	class TransportMagazines
 	{
-
+		_GrenadeFlare(30, 30, 30, 30);
 	};
 	class TransportItems
 	{
-		_GrenadeFlare(30, 30, 30, 30);
-
 		class _xx_ACE_Chemlight_IR
 		{
 			name = "ACE_Chemlight_IR";
@@ -111,16 +105,14 @@ class Manticore_Loadout_Crate_Grenade_SmokFlareChem : Box_NATO_Support_F
 
 	class TransportWeapons
 	{
-
 	};
 	class TransportMagazines
 	{
-
+		_GrenadeSmoke(10, 30, 10, 10, 10, 10, 10);
+		_GrenadeFlare(10, 10, 10, 10);
 	};
 	class TransportItems
 	{
-		_GrenadeSmoke(10, 30, 10, 10, 10, 10, 10);
-		_GrenadeFlare(10, 10, 10, 10);
 		class _xx_ACE_Chemlight_IR
 		{
 			name = "ACE_Chemlight_IR";
@@ -171,15 +163,13 @@ class Manticore_Loadout_Crate_Grenade_Smok : Box_NATO_Support_F
 
 	class TransportWeapons
 	{
-
 	};
 	class TransportMagazines
 	{
-
+		_GrenadeSmoke(20, 60, 20, 20, 20, 20, 20);
 	};
 	class TransportItems
 	{
-		_GrenadeSmoke(20, 60, 20, 20, 20, 20, 20);
 	};
 	class TransportBackpacks
 	{

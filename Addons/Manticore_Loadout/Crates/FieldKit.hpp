@@ -27,6 +27,7 @@ class Manticore_Loadout_Crate_Field_Fireteam : B_supplyCrate_F
 		_UGLSmoke(10, 0, 10, 10, 0, 0, 0);
 		_UGLHE(20);
 		_UGLMics(3);
+		_GrenadeSmoke(5, 20, 5, 5, 0, 2, 0);
 	};
 	class TransportItems
 	{
@@ -117,6 +118,7 @@ class Manticore_Loadout_Crate_Field_Squad : B_supplyCrate_F
 		_UGLFlare(10, 5, 10, 10, 0);
 		_UGLSmoke(15, 15, 5, 10, 10, 0, 0);
 		_UGLHE(30);
+		_GrenadeSmoke(10, 30, 10, 5, 0, 2, 2);
 	};
 	class TransportItems
 	{
