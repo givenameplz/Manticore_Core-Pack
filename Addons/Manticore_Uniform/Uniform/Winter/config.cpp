@@ -13,7 +13,8 @@ class CfgPatches
 			"VSM_Multicam_Config",
 			"VSM_Vests_Config",
 			"A3_Weapons_F",
-			"VSM_HELMETS"
+			"VSM_HELMETS",
+			"tfar_backpacks"
 		};
 	};
 };
@@ -92,7 +93,6 @@ class CfgVehicles
 			"\Manticore_Uniform\Uniform\Winter\Data\Vanilla_Backpack_Compact_ManticamWinter_00_Med.paa"
 		};
 	};
-
 	class B_Kitbag_Base;
 	class Manticore_Uniform_Uniform_ManticamWinter_Kitbag : B_Kitbag_Base
 	{
@@ -116,7 +116,6 @@ class CfgVehicles
 			"\Manticore_Uniform\Uniform\Winter\Data\Vanilla_Backpack_Kitbag_ManticamWinter_00_Med.paa"
 		};
 	};
-
 	class B_Carryall_Base;
 	class Manticore_Uniform_Uniform_ManticamWinter_CarryallBag : B_Carryall_Base
 	{
@@ -138,6 +137,49 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"\Manticore_Uniform\Uniform\Winter\Data\Vanilla_Backpack_Carryall_ManticamWinter_00_Med.paa"
+		};
+	};
+	//TFAR Backpacks
+	class TFAR_rt1523g;
+	class Manticore_Uniform_Uniform_ManticamWinter_rt1523g : TFAR_rt1523g
+	{
+		author = "Mattress, Raspu, Gandi, Nkey";
+		displayName = "RT-1523G (ASIP) Manticam Winter";
+		//scope = 2;
+		//scopeCurator = 2;
+		//descriptionShort = "$STR_tfar_backpacks_RT1523G_Desc";
+		picture = "\Manticore_Uniform\Uniform\Winter\Data\Icon\Manticam_Logo_Winter.paa";
+		maximumLoad = 50;
+		mass = 80;
+		hiddenSelections[] =
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[] =
+		{
+			"\Manticore_Uniform\Uniform\Winter\Data\TFAR_rt1523g_ManticamWinter_00.paa"
+		};
+		/*tf_encryptionCode = "tf_west_radio_code";
+		tf_dialog = "rt1523g_radio_dialog";
+		tf_subtype = "digital_lr";*/
+	};
+	class TFAR_rt1523g_big;
+	class Manticore_Uniform_Uniform_ManticamWinter_rt1523gbig : TFAR_rt1523g_big
+	{
+		author = "Mattress, Raspu, Gandi, Nkey";
+		displayName = "RT-1523G (ASIP) Big Manticam Winter";
+		//descriptionShort = "$STR_tfar_backpacks_RT1523G_Big_Desc";
+		picture = "\Manticore_Uniform\Uniform\Winter\Data\Icon\Manticam_Logo_Winter.paa";
+		maximumLoad = 160;
+		mass = 160;
+		hiddenSelections[] =
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[] =
+		{
+			"\Manticore_Uniform\Uniform\Winter\Data\TFAR_rt1523gBig_ManticamWinter_00.paa"
+
 		};
 	};
 };
@@ -170,6 +212,7 @@ class cfgWeapons
 	//Vest
 	class VSM_RAV_operator_MulticamTropic;
 	class Manticore_Uniform_Uniform_ManticamWinter_RAV_Operator : VSM_RAV_operator_MulticamTropic
+
 	{
 		scope = 2;
 		author = "Mattress, VanSchmoozin - Specter";

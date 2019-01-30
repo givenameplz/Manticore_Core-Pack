@@ -34,7 +34,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[] =
 		{
-			"\Manticore_Vanilla\AA\Data\Texture\Bardelas_AA_ext01_V1,0_M81.paa",
+			"\Manticore_Vanilla\AA\Data\Bardelas_AA_ext01_V1,0_M81.paa",
 			"\Manticore_Vanilla\APC\Data\MBT_01_body_V1,0_M81.paa",
 			"\Manticore_Vanilla\AA\Data\Bardelas_AA_ext03_V1,0_M81.paa"
 		};
