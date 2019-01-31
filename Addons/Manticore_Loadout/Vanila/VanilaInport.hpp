@@ -1,0 +1,37 @@
+//Light Attack
+class Manticore_Vanilla_Light_Polaris_Unarmed;
+class Manticore_Vanilla_Light_Polaris_Armed;
+class Manticore_Vanilla_Light_Polaris_AT;
+class Manticore_Vanilla_Light_Polaris_Light;
+class Manticore_Vanilla_Light_Quadbike;
+//Heli
+class Manticore_Vanilla_Heli_AH6;
+class Manticore_Vanilla_Heli_MH6;
+class Manticore_Vanilla_Heli_MH6_Stripped;
+class Manticore_Vanilla_Heli_Merlin;
+class Manticore_Vanilla_Heli_Wildcat;
+class Manticore_Vanilla_Heli_Wildcat_dynamicLoadout;
+//APC IFV
+class Manticore_Vanilla_IFV_Badger;
+class Manticore_Vanilla_APC_Namer;
+class Manticore_Vanilla_APC_Nemmera;
+//AA
+class Manticore_Vanilla_AA_Bardelas;
+//Tank
+class Manticore_Vanilla_Tank_Leopard;
+class Manticore_Vanilla_Tank_Wiesel2_Cannon;
+class Manticore_Vanilla_Tank_Wiesel2_AT;
+class Manticore_Vanilla_Tank_Wiesel2_Scout;
+class Manticore_Vanilla_Tank_Rooikat;
+class Manticore_Vanilla_Tank_Rooikat_UP;
+//Artillery
+class Manticore_Vanilla_Artillery_Sholef;
+class Manticore_Vanilla_Artillery_Seara;
+//Naval
+class Manticore_Vanilla_Boats_Speedboat_Minigun;
+//Drone
+class Manticore_Vanilla_Drone_UCAV;
+class Manticore_Vanilla_Drone_Falcon;
+class Manticore_Vanilla_Drone_AR2Darter;
+class Manticore_Vanilla_Drone_Stomper;
+class Manticore_Vanilla_Drone_Stomper_RCWS;
